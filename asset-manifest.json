@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OATutor-ABScribe/static/css/main.89a9417e.css",
-    "main.js": "/OATutor-ABScribe/static/js/main.7bfc269d.js",
-    "static/media/Symbola.svg": "/OATutor-ABScribe/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/OATutor-ABScribe/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/OATutor-ABScribe/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/OATutor-ABScribe/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/OATutor-ABScribe/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/OATutor-ABScribe/index.html",
-    "main.89a9417e.css.map": "/OATutor-ABScribe/static/css/main.89a9417e.css.map",
-    "main.7bfc269d.js.map": "/OATutor-ABScribe/static/js/main.7bfc269d.js.map"
+    "main.css": "/PromptHive/static/css/main.d960efd2.css",
+    "main.js": "/PromptHive/static/js/main.4c7ba437.js",
+    "static/media/Symbola.svg": "/PromptHive/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/PromptHive/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/PromptHive/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/PromptHive/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/PromptHive/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/PromptHive/index.html",
+    "main.d960efd2.css.map": "/PromptHive/static/css/main.d960efd2.css.map",
+    "main.4c7ba437.js.map": "/PromptHive/static/js/main.4c7ba437.js.map"
   },
   "entrypoints": [
-    "static/css/main.89a9417e.css",
-    "static/js/main.7bfc269d.js"
+    "static/css/main.d960efd2.css",
+    "static/js/main.4c7ba437.js"
   ]
 }
